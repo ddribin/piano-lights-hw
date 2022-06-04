@@ -12,6 +12,12 @@
     (property "Datasheet" "" (id 3) (at 0 11.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "ki_keywords" "Single Gate Buff Tri-State CMOS" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "Single Buffer Gate Tri-State, CMOS" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "74AHC1G125_0_1"
       (rectangle (start -7.62 6.35) (end 7.62 -6.35)
         (stroke (width 0) (type default) (color 0 0 0 0))
