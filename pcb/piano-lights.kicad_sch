@@ -2248,6 +2248,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 34f39f79-fed3-4a69-849b-a6c21f40d4a4)
   )
+  (text "I_{LED} = 2mA\nR_{LED} = (5V - 0.7V) / 2mA = 2k150" (at 26.035 71.12 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 79f49edf-d6bd-4bdc-9efd-0c764c1ea22e)
+  )
   (text "USB Power" (at 25.4 31.115 0)
     (effects (font (size 2.54 2.54) (thickness 0.508) bold italic) (justify left bottom))
     (uuid a0127c88-876a-4625-97d1-23913520286a)
@@ -2924,7 +2928,7 @@
   (symbol (lib_id "Device:R") (at 179.07 146.685 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 90978087-cb46-489f-97ec-52950f70e1c2)
-    (property "Reference" "R3" (id 0) (at 181.61 146.05 0))
+    (property "Reference" "R4" (id 0) (at 181.61 146.05 0))
     (property "Value" "220" (id 1) (at 182.245 147.955 0))
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 177.292 146.685 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -3012,7 +3016,7 @@
   (symbol (lib_id "Device:R") (at 77.47 157.48 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid a865e730-ca37-4286-b23d-812c00989034)
-    (property "Reference" "R4" (id 0) (at 77.47 154.94 90))
+    (property "Reference" "R3" (id 0) (at 77.47 154.94 90))
     (property "Value" "220" (id 1) (at 77.47 160.02 90))
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 77.47 159.258 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -3524,10 +3528,10 @@
     (path "/fa2c1831-4962-4563-b450-d1344dc8f054"
       (reference "R2") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
-    (path "/90978087-cb46-489f-97ec-52950f70e1c2"
+    (path "/a865e730-ca37-4286-b23d-812c00989034"
       (reference "R3") (unit 1) (value "220") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
-    (path "/a865e730-ca37-4286-b23d-812c00989034"
+    (path "/90978087-cb46-489f-97ec-52950f70e1c2"
       (reference "R4") (unit 1) (value "220") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/6a539b72-1850-4b27-a272-592366a91913"
