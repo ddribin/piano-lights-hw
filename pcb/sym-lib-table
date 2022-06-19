@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name "piano-lights")(type "KiCad")(uri "${KIPRJMOD}/piano-lights.kicad_sym")(options "")(descr ""))
+  (lib (name "00-piano-lights")(type "KiCad")(uri "${KIPRJMOD}/piano-lights.kicad_sym")(options "")(descr ""))
 )
