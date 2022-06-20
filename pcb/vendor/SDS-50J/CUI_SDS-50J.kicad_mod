@@ -36,6 +36,11 @@
   (pad "3" thru_hole circle (at -7.5 -5) (size 1.95 1.95) (drill 1.3) (layers *.Cu *.Mask) (tstamp a115f95e-20ea-40aa-b9e2-34312ed28f94))
   (pad "4" thru_hole circle (at 5 -7.5) (size 1.95 1.95) (drill 1.3) (layers *.Cu *.Mask) (tstamp 9fcb5478-a7a2-403b-a803-9e0b62a9bf7d))
   (pad "5" thru_hole circle (at -5 -7.5) (size 1.95 1.95) (drill 1.3) (layers *.Cu *.Mask) (tstamp 7340f738-6621-4bf1-9653-52a7e91acdab))
-  (pad "E" thru_hole circle (at -2.5 5) (size 1.95 1.95) (drill 1.3) (layers *.Cu *.Mask) (tstamp 79288276-a73f-47e3-bb89-9728c47b27d7))
-  (pad "E" thru_hole circle (at 2.5 5) (size 1.95 1.95) (drill 1.3) (layers *.Cu *.Mask) (tstamp 95419bd0-f530-459b-becf-f8591174e8c9))
+  (pad "SH" thru_hole circle (at -2.5 5) (size 1.95 1.95) (drill 1.3) (layers *.Cu *.Mask) (tstamp 79288276-a73f-47e3-bb89-9728c47b27d7))
+  (pad "SH" thru_hole circle (at 2.5 5) (size 1.95 1.95) (drill 1.3) (layers *.Cu *.Mask) (tstamp 95419bd0-f530-459b-becf-f8591174e8c9))
+  (model "${KIPRJMOD}/vendor/SDS-50J/SDS-50J.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
