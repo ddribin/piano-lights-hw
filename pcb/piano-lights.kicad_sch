@@ -6,8 +6,8 @@
 
   (title_block
     (title "Piano Lights PCB")
-    (date "2022-05-09")
-    (rev "1.0b1")
+    (date "2022-06-26")
+    (rev "1.0.0")
     (company "Dave Dribin")
   )
 
