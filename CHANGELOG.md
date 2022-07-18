@@ -4,15 +4,17 @@ Changelog for Piano Lights Hardware.
 
 ## [Unreleased]
 
-### Changed
+### Added
 
-- Switch H11L1 optocoupler footprint from through-hole to surface mount.
+- Add silkscreen text for LED Strip signals.
+- Add silkscreen text for USB Power.
+- Add silkscreen around AVR ISP-6 header.
 
 ### Fixed
 
-- Fixed reversed inputs to H11L1 optocoupoupler (Issue #3).
-- Add a pull-up to the H11L1 optocoupler output (Issue #4).
-- Switch footprint of MIDI IN proction diode, `D3`, from `0805` to `MiniMELF` (Issue #1).
+- Fix reversed inputs to H11L1 optocoupler (Issue #3).
+- Add a 220R pull-up to the H11L1 optocoupler output (Issue #4).
+- Switch footprint of MIDI IN protection diode, `D2`, from `0805` to `MiniMELF` (Issue #1).
 
 ## [1.0.0] - 2022-06-30
 
