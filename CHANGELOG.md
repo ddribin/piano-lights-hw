@@ -15,7 +15,7 @@ Changelog for Piano Lights Hardware.
 
 - Fix reversed inputs to H11L1 optocoupler ([Issue #3]).
 - Add a 220R pull-up to the H11L1 optocoupler output ([Issue #4]).
-- Switch footprint of MIDI IN protection diode, `D2`, from `0805` to `MiniMELF` ([[Issue #1]).
+- Switch footprint of MIDI IN protection diode, `D2`, from `0805` to `MiniMELF` ([Issue #1]).
 - Allow solder mask between USB connector pads by updating solder mask "minimum web width" constraint to 0.05mm. ([Issue #5]).
 
 [Issue #1]: https://github.com/ddribin/piano-lights-hw/issues/1
