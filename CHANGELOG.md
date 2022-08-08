@@ -2,13 +2,18 @@
 
 Changelog for Piano Lights Hardware.
 
-## [Unreleased]
+## [1.0.1] - 2022-08-08
 
 ### Added
 
-- Add silkscreen text for LED Strip signals.
-- Add silkscreen text for USB Power.
-- Add silkscreen around AVR ISP-6 header.
+- Silkscreen text for LED Strip signals.
+- Silkscreen text for USB Power.
+- Silkscreen around AVR ISP-6 header.
+- Some test points.
+
+### Changed
+
+- Update solder mask constraints to allow solder mask between USB connector pads.
 
 ### Fixed
 
@@ -23,5 +28,6 @@ Changelog for Piano Lights Hardware.
 - Initial Release
 
 
-[unreleased]: https://github.com/ddribin/piano-lights-hw/compare/v1.0.0...HEAD
+[unreleased]: https://github.com/ddribin/piano-lights-hw/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/ddribin/piano-lights-hw/releases/tag/v1.0.1
 [1.0.0]: https://github.com/ddribin/piano-lights-hw/releases/tag/v1.0.0
