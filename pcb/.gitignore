@@ -1,3 +1,6 @@
+# Generated gerber files
+gerbers/
+
 # The rest of this is from:
 # https://github.com/github/gitignore/blob/master/KiCad.gitignore
 
