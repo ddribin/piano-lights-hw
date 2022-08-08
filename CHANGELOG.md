@@ -11,15 +11,12 @@ Changelog for Piano Lights Hardware.
 - Silkscreen around AVR ISP-6 header.
 - Some test points.
 
-### Changed
-
-- Update solder mask constraints to allow solder mask between USB connector pads.
-
 ### Fixed
 
 - Fix reversed inputs to H11L1 optocoupler (Issue #3).
 - Add a 220R pull-up to the H11L1 optocoupler output (Issue #4).
 - Switch footprint of MIDI IN protection diode, `D2`, from `0805` to `MiniMELF` (Issue #1).
+- Allow solder mask between USB connector pads by updating solder mask "minimum web width" constraint to 0.05mm. (Issue #5).
 
 ## [1.0.0] - 2022-06-30
 
