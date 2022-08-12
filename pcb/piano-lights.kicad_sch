@@ -3717,7 +3717,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f3058dab-f2e9-49c6-8907-75a98c2494ef)
     (property "Reference" "JP1" (id 0) (at 175.26 25.4 0))
-    (property "Value" "UART_PWR" (id 1) (at 175.26 27.94 0))
+    (property "Value" "UART Power" (id 1) (at 175.26 27.94 0))
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (id 2) (at 175.26 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4003,7 +4003,7 @@
       (reference "J6") (unit 1) (value "MIDI THRU") (footprint "00-Vendor_SDS-50J:CUI_SDS-50J")
     )
     (path "/f3058dab-f2e9-49c6-8907-75a98c2494ef"
-      (reference "JP1") (unit 1) (value "UART_PWR") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "JP1") (unit 1) (value "UART Power") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/f81c3cc8-5168-4aaa-9781-231bc24f91f7"
       (reference "R1") (unit 1) (value "2k2") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
