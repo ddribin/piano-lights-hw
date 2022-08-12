@@ -1,6 +1,9 @@
 # Generated gerber files
 gerbers/
 
+# Interactive BOM
+bom/
+
 # The rest of this is from:
 # https://github.com/github/gitignore/blob/master/KiCad.gitignore
 
