@@ -2,14 +2,15 @@
 
 Changelog for Piano Lights Hardware.
 
-## [1.0.1] - 2022-08-08
+## [1.0.1] - 2022-08-11
 
 ### Added
 
 - Silkscreen text for LED Strip signals.
 - Silkscreen text for USB Power.
 - Silkscreen around AVR ISP-6 header.
-- Some test points.
+- Silkscreen for component values.
+- Various test points.
 
 ### Fixed
 
