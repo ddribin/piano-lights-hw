@@ -366,7 +366,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.254,
+        "track_width": 0.25,
         "via_diameter": 0.762,
         "via_drill": 0.381,
         "wire_width": 6.0
@@ -383,11 +383,19 @@
         "name": "Power",
         "nets": [
           "+5V",
+          "/MCOUP_DATA",
+          "/MCOUP_GND",
+          "/MCOUP_SH",
+          "/MCOUP_V",
+          "/MIN_V",
+          "/MIN_V_R",
+          "/MTHRU_V",
+          "/UART_5V",
           "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.508,
+        "track_width": 0.45,
         "via_diameter": 0.762,
         "via_drill": 0.381,
         "wire_width": 6.0
