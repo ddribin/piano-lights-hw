@@ -1,3 +1,5 @@
+# Output files
+output/
 # Generated gerber files
 gerbers/
 
