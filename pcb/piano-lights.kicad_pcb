@@ -279,7 +279,7 @@
     (property "Vendor" "https://www.digikey.com/en/products/detail/cui-devices/SDS-50J/97033")
     (path "/c47e7649-31b9-489c-93da-965a4a52c822")
     (attr through_hole)
-    (fp_text reference "J8" (at 0.017264 -10.110001) (layer "F.SilkS")
+    (fp_text reference "J8" (at 0.017264 -10.110001) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f7f3f8ea-cc1a-4e8d-8bae-c3813138a36d)
     )
@@ -3759,7 +3759,7 @@
     (property "Vendor" "https://www.digikey.com/en/products/detail/cui-devices/SDS-50J/97033")
     (path "/f9866f8b-3936-4706-bae6-722d71235ee8")
     (attr through_hole)
-    (fp_text reference "J7" (at 0 -9.75) (layer "F.SilkS")
+    (fp_text reference "J7" (at 0 -9.75) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dd2113c8-b871-42cd-8205-bd8e859b57e7)
     )
@@ -5257,7 +5257,6 @@
   (gr_circle (center 158.7 80.6) (end 158.9 80.6) (layer "F.SilkS") (width 0.15) (fill solid) (tstamp 312690dc-ee11-411b-b9a7-7e71653fd391))
   (gr_line (start 125.6 95.825) (end 125.6 94.075) (layer "F.SilkS") (width 0.15) (tstamp 5d8ef6fb-87c9-402f-856f-9d290a241966))
   (gr_line (start 149.592 79.431) (end 149.592 81.181) (layer "F.SilkS") (width 0.15) (tstamp 69d12439-8dbf-4da1-b6c6-ffee7ab56df2))
-  (gr_line (start 101.608 109.661) (end 101.608 108.861) (layer "F.SilkS") (width 0.15) (tstamp a65965b6-4ee4-423a-b595-386467955975))
   (gr_line (start 149.092 80.681) (end 150.142 80.681) (layer "F.SilkS") (width 0.15) (tstamp b209d92b-cae3-4db2-8b61-d925dab78b14))
   (gr_line (start 126.1 94.575) (end 125.05 94.575) (layer "F.SilkS") (width 0.15) (tstamp b44af7d5-1a88-4cd9-a30c-c49b8cb3887c))
   (gr_circle (center 143.3 92.4) (end 143.4 92.4) (layer "F.SilkS") (width 0.15) (fill solid) (tstamp ba1a96cd-7531-43fd-b20c-14f3c587f8ae))
@@ -5299,12 +5298,6 @@
   (gr_line (start 175.4 87.75) (end 175.4 94.25) (layer "User.2") (width 0.15) (tstamp cc26847d-3fdf-43c6-80dc-cda776ed5879))
   (gr_line (start 178.65 87.75) (end 178.65 94.25) (layer "User.2") (width 0.15) (tstamp cddbcfea-084e-4f05-8d7a-65a9a5b4b0da))
   (gr_line (start 86.4 114.9) (end 86.4 67) (layer "User.2") (width 0.1) (tstamp e40e33e6-17c5-4057-83d6-ee0047f271da))
-  (gr_text "+" (at 132.225 72.35 270) (layer "F.SilkS") (tstamp 21aad8f1-e35e-4b54-916a-b8758d271237)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (gr_text "-" (at 132.225 77.2) (layer "F.SilkS") (tstamp 73cbbc59-db2d-43be-b641-1bfceccb6964)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
   (gr_text "Piano Lights v2.0.0\nDave Dribin" (at 99 91.15 90) (layer "F.SilkS") (tstamp 844bb364-871b-457e-9d06-abcc961f8b2c)
     (effects (font (size 1.25 1.25) (thickness 0.2)))
   )
@@ -14932,12 +14925,6 @@
       915eee9e-6df0-4cae-aac0-927d59881442
       b209d92b-cae3-4db2-8b61-d925dab78b14
       e065d05b-c989-4e71-aab8-dc97a54d5f9e
-    )
-  )
-  (group "" (id fcb3c047-fedf-4387-86b1-cd3709f3cd87)
-    (members
-      21aad8f1-e35e-4b54-916a-b8758d271237
-      73cbbc59-db2d-43be-b641-1bfceccb6964
     )
   )
 )
