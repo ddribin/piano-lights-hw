@@ -3020,7 +3020,7 @@
   (symbol (lib_id "Connector:Conn_01x06_Male") (at 205.74 31.75 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 33bc4d7e-ec67-4ad9-8b68-988d7745711a)
-    (property "Reference" "J1" (id 0) (at 201.93 22.86 0)
+    (property "Reference" "J2" (id 0) (at 201.93 22.86 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "FTDI RS232" (id 1) (at 201.93 41.91 0)
@@ -3978,7 +3978,7 @@
   (symbol (lib_id "Connector:USB_C_Receptacle_PowerOnly_6P") (at 38.1 33.02 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f7370afb-cec9-4b13-bff1-cf67a638138b)
-    (property "Reference" "J2" (id 0) (at 38.1 17.78 0))
+    (property "Reference" "J1" (id 0) (at 38.1 17.78 0))
     (property "Value" "USB-C 6-Pin" (id 1) (at 55.245 31.75 0))
     (property "Footprint" "00-USB_C_GCT:GCT_USB4125-GF-A-0190_REVA2" (id 2) (at 41.91 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4283,11 +4283,11 @@
     (path "/3ecfe073-200a-45c8-a74c-51516f81a753"
       (reference "H4") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3")
     )
-    (path "/33bc4d7e-ec67-4ad9-8b68-988d7745711a"
-      (reference "J1") (unit 1) (value "FTDI RS232") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
-    )
     (path "/f7370afb-cec9-4b13-bff1-cf67a638138b"
-      (reference "J2") (unit 1) (value "USB-C 6-Pin") (footprint "00-USB_C_GCT:GCT_USB4125-GF-A-0190_REVA2")
+      (reference "J1") (unit 1) (value "USB-C 6-Pin") (footprint "00-USB_C_GCT:GCT_USB4125-GF-A-0190_REVA2")
+    )
+    (path "/33bc4d7e-ec67-4ad9-8b68-988d7745711a"
+      (reference "J2") (unit 1) (value "FTDI RS232") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
     )
     (path "/2c9565e8-406b-43f1-b981-325aa0f42208"
       (reference "J3") (unit 1) (value "LED Strip") (footprint "Connector_Wire:SolderWire-0.15sqmm_1x04_P4mm_D0.5mm_OD1.5mm_Relief")
