@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "00-Vendor_SDS-50J")(type "KiCad")(uri "${KIPRJMOD}/vendor/SDS-50J")(options "")(descr ""))
+  (lib (name "00-USB_C_GCT")(type "KiCad")(uri "${KIPRJMOD}/vendor/USB_C_GCT_USB4125-GF-A-0190")(options "")(descr ""))
 )
