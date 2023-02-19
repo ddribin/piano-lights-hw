@@ -624,8 +624,18 @@
       "default_text_size": 50.0,
       "field_names": [
         {
-          "name": "MFN",
+          "name": "Mfr",
           "url": false,
+          "visible": false
+        },
+        {
+          "name": "Mfr Part",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "Vendor",
+          "url": true,
           "visible": false
         }
       ],
