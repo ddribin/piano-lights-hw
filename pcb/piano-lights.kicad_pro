@@ -488,6 +488,8 @@
           "/MIN_V",
           "/MIN_V_R",
           "/MTHRU_V",
+          "/PICO",
+          "/SCK",
           "/UART_5V",
           "GND",
           "unconnected-(J5-PadSH)"
