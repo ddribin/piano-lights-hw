@@ -2159,7 +2159,7 @@
     (uuid 91bf79b4-6b0c-4051-b06f-aadbb663c881)
   )
 
-  (wire (pts (xy 227.33 131.826) (xy 227.33 135.382))
+  (wire (pts (xy 227.33 131.826) (xy 227.33 135.89))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 934de6b5-fef5-4e0c-846f-e12493d8e36b)
   )
@@ -2717,7 +2717,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c84acecb-0a57-4563-a2fe-6df19ce857cc)
   )
-  (label "USB_CC2" (at 53.213 40.64 0)
+  (label "USB_CC2" (at 53.34 40.64 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ce6d68a4-5885-4dea-b0af-6ae9d5c3ae4e)
   )
