@@ -2,6 +2,22 @@
 
 Changelog for Piano Lights Hardware.
 
+## [2.0.0] - 2023-02-22
+
+### Changed
+
+- Redesign PCB to fit into the smaller [Hammond 1593VBK enclosure][enclosure].
+- Switch to USB-C for power.
+- Switch to SMD TQFP-32 for the AVR.
+- Switch to SMD for the LED.
+- Switch to 0603 packages for the SMD resistors and capacitors.
+
+### Added
+
+- Add a MIDI coupler with straight through wiring.
+
+[enclosure]: https://www.hammfg.com/electronics/small-case/plastic/1593
+
 ## [1.0.1] - 2022-08-11
 
 ### Added
@@ -32,5 +48,6 @@ Changelog for Piano Lights Hardware.
 
 
 [unreleased]: https://github.com/ddribin/piano-lights-hw/compare/v1.0.1...HEAD
-[1.0.1]: https://github.com/ddribin/piano-lights-hw/releases/tag/v1.0.0...v1.0.1
-[1.0.0]: https://github.com/ddribin/piano-lights-hw/releases/tag/v1.0.0
+[2.0.0]: https://github.com/ddribin/piano-lights-hw/compare/v.1.0.1...v2.0.0
+[1.0.1]: https://github.com/ddribin/piano-lights-hw/compare/v1.0.0...v1.0.1
+[1.0.0]: https://github.com/ddribin/piano-lights-hw/tree/v1.0.0
