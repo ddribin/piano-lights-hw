@@ -2655,7 +2655,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 76d1bcb4-1c82-4949-a3d1-87b9856e9926)
   )
-  (label "~{Button}" (at 132.08 66.04 0)
+  (label "~{BUTTON}" (at 132.08 66.04 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7d189e1e-d077-4145-aad3-8d12ec3221ae)
   )
