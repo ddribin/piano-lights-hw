@@ -4,10 +4,10 @@
 
 ### Changed
 
-- Redesign PCB to fit into the smaller [Hammond 1593VBK enclosure][enclosure].
+- Redesign PCB to fit into a smaller [Hammond 1593VBK enclosure][enclosure].
 - Switch to USB-C for power.
-- Switch to SMD TQFP-32 for the AVR.
-- Switch to SMD for the LED.
+- Switch to SMD TQFP package for the ATmega328.
+- Switch to SMD 0803 package for the LED.
 - Switch to 0603 packages for the SMD resistors and capacitors.
 
 ### Added
