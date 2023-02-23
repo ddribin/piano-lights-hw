@@ -43,7 +43,7 @@
 _Initial Release._
 
 
-[unreleased]: https://github.com/ddribin/piano-lights-hw/compare/v1.0.1...HEAD
+[unreleased]: https://github.com/ddribin/piano-lights-hw/compare/v2.0.0...HEAD
 [2.0.0]: https://github.com/ddribin/piano-lights-hw/releases/tag/v2.0.0
 [1.0.1]: https://github.com/ddribin/piano-lights-hw/releases/tag/v1.0.1
 [1.0.0]: https://github.com/ddribin/piano-lights-hw/releases/tag/v1.0.0
