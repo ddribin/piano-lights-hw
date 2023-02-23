@@ -1,7 +1,5 @@
 # Changelog
 
-Changelog for Piano Lights Hardware.
-
 ## [2.0.0] - 2023-02-22
 
 ### Changed
@@ -42,12 +40,10 @@ Changelog for Piano Lights Hardware.
 
 ## [1.0.0] - 2022-06-30
 
-### Added
-
-- Initial Release
+_Initial Release._
 
 
 [unreleased]: https://github.com/ddribin/piano-lights-hw/compare/v1.0.1...HEAD
-[2.0.0]: https://github.com/ddribin/piano-lights-hw/compare/v.1.0.1...v2.0.0
-[1.0.1]: https://github.com/ddribin/piano-lights-hw/compare/v1.0.0...v1.0.1
-[1.0.0]: https://github.com/ddribin/piano-lights-hw/tree/v1.0.0
+[2.0.0]: https://github.com/ddribin/piano-lights-hw/releases/tag/v2.0.0
+[1.0.1]: https://github.com/ddribin/piano-lights-hw/releases/tag/v1.0.1
+[1.0.0]: https://github.com/ddribin/piano-lights-hw/releases/tag/v1.0.0
