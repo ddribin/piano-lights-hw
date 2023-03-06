@@ -3465,7 +3465,7 @@
     (uuid 6eb1a7bf-1572-41ee-b103-299e5107f5f2)
     (property "Reference" "U2" (id 0) (at 69.85 95.25 0))
     (property "Value" "H11L1" (id 1) (at 71.12 107.95 0))
-    (property "Footprint" "Package_DIP:DIP-6_W7.62mm" (id 2) (at 65.024 101.6 0)
+    (property "Footprint" "Package_DIP:SMDIP-6_W9.53mm" (id 2) (at 65.024 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/H11L3M-D.PDF" (id 3) (at 65.024 101.6 0)
@@ -3477,7 +3477,7 @@
     (property "Mfr Part" "H11L1M" (id 5) (at 67.31 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Vendor" "https://www.digikey.com/short/bnt2r2pp" (id 6) (at 67.31 101.6 0)
+    (property "Vendor" "https://www.digikey.com/short/qjcqtmfd" (id 6) (at 67.31 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a9d311cb-338c-4f04-9a9f-4527a6ac382e))
@@ -4574,7 +4574,7 @@
       (reference "U1") (unit 1) (value "ATmega328") (footprint "Package_QFP:TQFP-32_7x7mm_P0.8mm")
     )
     (path "/6eb1a7bf-1572-41ee-b103-299e5107f5f2"
-      (reference "U2") (unit 1) (value "H11L1") (footprint "Package_DIP:DIP-6_W7.62mm")
+      (reference "U2") (unit 1) (value "H11L1") (footprint "Package_DIP:SMDIP-6_W9.53mm")
     )
     (path "/d6e46554-e890-46ce-8fb2-73de141975e9"
       (reference "U3") (unit 1) (value "74AHC1G125") (footprint "Package_TO_SOT_SMD:SOT-23-5_HandSoldering")
