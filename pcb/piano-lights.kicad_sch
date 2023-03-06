@@ -3151,7 +3151,7 @@
     (property "Value" "Button" (id 1) (at 149.86 67.945 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm" (id 2) (at 147.32 60.96 0)
+    (property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm" (id 2) (at 147.32 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 147.32 60.96 0)
@@ -3735,7 +3735,7 @@
     (property "Value" "Reset" (id 1) (at 166.37 109.22 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm" (id 2) (at 160.02 107.95 0)
+    (property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm" (id 2) (at 160.02 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 160.02 107.95 0)
@@ -4565,10 +4565,10 @@
       (reference "R8") (unit 1) (value "220R") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/3da00856-5831-42f7-ab8b-b66876dbd199"
-      (reference "SW1") (unit 1) (value "Button") (footprint "Button_Switch_THT:SW_PUSH_6mm_H5mm")
+      (reference "SW1") (unit 1) (value "Button") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm")
     )
     (path "/95e292a9-d533-4e45-ad33-fbfe25b833db"
-      (reference "SW2") (unit 1) (value "Reset") (footprint "Button_Switch_THT:SW_PUSH_6mm_H5mm")
+      (reference "SW2") (unit 1) (value "Reset") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm")
     )
     (path "/3a98d18f-6900-4602-805d-2fb9219ad33a"
       (reference "U1") (unit 1) (value "ATmega328") (footprint "Package_QFP:TQFP-32_7x7mm_P0.8mm")
