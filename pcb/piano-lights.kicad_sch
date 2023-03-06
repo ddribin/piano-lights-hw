@@ -2993,7 +2993,7 @@
     (property "Value" "LED Strip" (id 1) (at 204.47 73.025 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_Wire:SolderWire-0.15sqmm_1x04_P4mm_D0.5mm_OD1.5mm_Relief" (id 2) (at 205.74 64.77 0)
+    (property "Footprint" "Connector_JST:JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal" (id 2) (at 205.74 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 205.74 64.77 0)
@@ -4517,7 +4517,7 @@
       (reference "J2") (unit 1) (value "FTDI RS232") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
     )
     (path "/2c9565e8-406b-43f1-b981-325aa0f42208"
-      (reference "J3") (unit 1) (value "LED Strip") (footprint "Connector_Wire:SolderWire-0.15sqmm_1x04_P4mm_D0.5mm_OD1.5mm_Relief")
+      (reference "J3") (unit 1) (value "LED Strip") (footprint "Connector_JST:JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal")
     )
     (path "/915f0790-38e3-441f-9211-fca968288f6c"
       (reference "J4") (unit 1) (value "AVR-ISP-6") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical")
