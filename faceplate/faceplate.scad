@@ -22,5 +22,3 @@ module faceplate()
 {
     rounded_rect(98, 30, 2);
 }
-
-faceplate();
