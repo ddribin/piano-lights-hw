@@ -22,6 +22,7 @@ module midi_in_faceplate()
       circle(d = midi_diameter);
     
     translate([jst_x, pcb_top, 0])
+      offset(delta = 0.1)
       square([jst_w, jst_h]);
   }
 }

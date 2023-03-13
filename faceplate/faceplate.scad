@@ -35,3 +35,6 @@ pcb_top = pcb_bottom + pcb_thickness;
 midi_diameter = 19 - 1.6/2;
 midi_center_y = 10;
 midi_y = pcb_top + midi_center_y;
+
+echo(str("PCB top: ", pcb_top));
+echo(str("MIDI diameter: ", midi_diameter));
