@@ -230,7 +230,7 @@
 
   (footprint "00-Vendor_SDS-50J:CUI_SDS-50J" (layer "F.Cu")
     (tstamp 01b67767-c4d7-4ef3-89d0-17175759e3df)
-    (at 133.1555 120.2)
+    (at 133.2 120.2)
     (property "Mfr" "CUI")
     (property "Mfr Part" "SDS-50J")
     (property "Sheetfile" "piano-lights.kicad_sch")
@@ -409,7 +409,7 @@
 
   (footprint "00-Vendor_SDS-50J:CUI_SDS-50J" (layer "F.Cu")
     (tstamp 09980fcc-a9c9-40ce-9078-400a81302eeb)
-    (at 112.511 120.21)
+    (at 112.5 120.2)
     (property "Mfr" "CUI")
     (property "Mfr Part" "SDS-50J")
     (property "Sheetfile" "piano-lights.kicad_sch")
