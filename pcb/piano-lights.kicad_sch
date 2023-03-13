@@ -2559,9 +2559,9 @@
     (uuid ff711a8b-7bc9-4525-8d09-5a0319bd7911)
   )
 
-  (text "1: GND	Black\n2: CTS	Brown\n3: VCC	Red\n4: TXD	Orange\n5: RXD	Yellow\n6: RTS	Green"
+  (text "1: GND  Black\n2: CTS  Brown\n3: VCC  Red\n4: TXD  Orange\n5: RXD  Yellow\n6: RTS  Green"
     (at 209.55 38.1 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (effects (font (face "Menlo") (size 1.27 1.27)) (justify left bottom))
     (uuid 1c67a69a-6ceb-4dc4-bf79-41ba9c27d3e7)
   )
   (text "MIDI THRU" (at 101.6 125.73 0)
@@ -2572,9 +2572,9 @@
     (effects (font (size 2.54 2.54) (thickness 0.508) bold italic) (justify left bottom))
     (uuid 301aab7a-0254-409b-8e0f-3b1ec1d3003b)
   )
-  (text "1: 5V	Red\n2: DI	Green - PICO (Data Input)\n3: CI	Yellow - SCK (Clock Input) \n4: GND	Black\n"
+  (text "1: 5V   Red\n2: DI   Green  - PICO (Data Input)\n3: CI   Yellow - SCK (Clock Input) \n4: GND  Black\n"
     (at 209.55 69.85 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (effects (font (face "Menlo") (size 1.27 1.27)) (justify left bottom))
     (uuid 34f39f79-fed3-4a69-849b-a6c21f40d4a4)
   )
   (text "Wired straight through, Pin 2 to Pin 2, 4 to 4, etc."
