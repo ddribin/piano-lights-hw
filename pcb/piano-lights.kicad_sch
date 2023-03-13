@@ -2812,7 +2812,7 @@
     (property "Value" "1N914" (at 45.72 102.235 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (at 50.165 101.6 0)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 50.165 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.vishay.com/docs/85622/1n914.pdf" (at 54.61 101.6 0)
