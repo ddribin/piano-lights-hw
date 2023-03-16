@@ -80,7 +80,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "output/midi_out_faceplate_gerbers/")
+      (outputdirectory "output/midi-out-faceplate-gerbers/")
     )
   )
 
