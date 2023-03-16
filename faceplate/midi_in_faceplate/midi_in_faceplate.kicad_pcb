@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "MIDI IN Faceplate")
+    (date "2023-03-15")
+    (rev "2.1.0b1")
+    (company "Dave Dribin")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
@@ -479,6 +486,9 @@
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp fdb06d01-8d6a-49b0-a598-2f78006c3038))
   (gr_line locked (start 112.2832 92.5753) (end 112.7246 91.8388)
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp fe273b73-9292-4d2c-b77a-1b8dbb1e814d))
+  (gr_text "v2.1.0b1" (at 187.5 111.5) (layer "B.SilkS") (tstamp e0073c24-7038-419d-b522-ef42d3dc5536)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
+  )
   (gr_text "MIDI" (at 130.3325 85.95) (layer "F.SilkS") (tstamp 226453f9-5295-4f89-94c4-36cf9f79f6db)
     (effects (font (face "Arial Black") (size 2.5 2.5) (thickness 0.15)))
     (render_cache "MIDI" 0

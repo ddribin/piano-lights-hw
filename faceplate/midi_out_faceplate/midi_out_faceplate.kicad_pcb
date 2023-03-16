@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "MIDI OUT Faceplate")
+    (date "2023-03-15")
+    (rev "2.1.0b1")
+    (company "Dave Dribin")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
@@ -481,6 +488,9 @@
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp ff1bb708-c849-48f9-917a-5b9f77029f71))
   (gr_line locked (start 168.793 85.6181) (end 169.6423 85.4921)
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp ff558434-5e25-4923-a8b7-1985fc3de0db))
+  (gr_text "v2.1.0b1" (at 195 109) (layer "B.SilkS") (tstamp 575c917d-2591-42f5-a2fc-51f8ec23d5f1)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
+  )
   (gr_text "Coupler" (at 170.5 106.7) (layer "F.SilkS") (tstamp 0cc5b966-7c50-44fe-a98e-792ff8563fa4)
     (effects (font (face "Arial Black") (size 2.5 2.5) (thickness 0.5) bold))
     (render_cache "Coupler" 0
