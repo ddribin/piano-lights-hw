@@ -711,6 +711,10 @@
       {
         "netclass": "Power",
         "pattern": "unconnected-(J5-PadSH)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Earth"
       }
     ]
   },
