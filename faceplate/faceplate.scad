@@ -29,7 +29,7 @@ module faceplate()
 
 
 pcb_thickness = 1.6;
-pcb_bottom = 4.2;
+pcb_bottom = 5.3;
 pcb_top = pcb_bottom + pcb_thickness;
 
 // Measured from keyboard
