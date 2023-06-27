@@ -1,5 +1,25 @@
 # Changelog
 
+## [unreleased]
+
+### Changed
+
+- Switch LEDs from wire mount to a JST XH connector [Issue [#8]].
+- Separate USB-C shield to Earth and Ground, connected by a 4n7F capacitor.
+- Switch to SMD 0603 package for the LED [Issue [#7].
+- Switch to SMD packge for the H11L1 optocoupler [Issue [#2]].
+- Switch to SOD-123 package for the diode [Issue [#6]].
+- Update silkscreen text to new built-in KiCad 7.0 custom fonts.
+
+### Added
+
+- Add PCB faceplates for MIDI IN and MIDI OUT sides of the enclosure.
+
+[#2]: https://github.com/ddribin/piano-lights-hw/issues/2
+[#6]: https://github.com/ddribin/piano-lights-hw/issues/6
+[#7]: https://github.com/ddribin/piano-lights-hw/issues/7
+[#8]: https://github.com/ddribin/piano-lights-hw/issues/8
+
 ## [2.0.0] - 2023-02-22
 
 ### Changed
