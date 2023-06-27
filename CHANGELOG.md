@@ -1,9 +1,10 @@
 # Changelog
 
-## [unreleased]
+## [Unreleased]
 
 ### Changed
 
+- Expand board out 1.8mm on the top and bottom so ports are closer to the edge of the enclosure.
 - Switch LEDs from wire mount to a JST XH connector [Issue [#8]].
 - Separate USB-C shield to Earth and Ground, connected by a 4n7F capacitor.
 - Switch to SMD 0603 package for the LED [Issue [#7]].
