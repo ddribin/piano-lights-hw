@@ -7,8 +7,8 @@
   (paper "USLetter")
   (title_block
     (title "MIDI OUT Faceplate")
-    (date "2023-03-15")
-    (rev "2.1.0")
+    (date "2023-07-03")
+    (rev "3.0.0")
     (company "Dave Dribin")
   )
 
@@ -330,7 +330,7 @@
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp a9853171-5304-471d-adfb-2d90e1169230))
   (gr_line (start 163.7361 87.5491) (end 164.3128 86.9128)
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp aa58893c-ceaa-4864-8bf6-daee8eb68c87))
-  (gr_line (start 101.8744 109.996063) (end 196 110)
+  (gr_line (start 101.8744 110) (end 196 110)
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp ab178101-d9b7-4d1d-8ca7-920222b8c923))
   (gr_line (start 172.207 84.5181) (end 173.04 84.7268)
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp ac75ac91-f7f2-4d6b-bb13-bcae6e784b0e))
@@ -488,7 +488,7 @@
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp f92b49d1-bcaf-4976-8a4b-9e7efd4b74d9))
   (gr_line (start 196.9428 80.2362) (end 196.7654 80.1523)
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp fd361d42-544f-4b80-9318-bb7fdb5a870c))
-  (gr_text "v2.1.0" (at 195 109) (layer "B.SilkS") (tstamp 575c917d-2591-42f5-a2fc-51f8ec23d5f1)
+  (gr_text "v3.0.0" (at 195 109) (layer "B.SilkS") (tstamp 575c917d-2591-42f5-a2fc-51f8ec23d5f1)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
   )
   (gr_text "Coupler" (at 170.5 106.7) (layer "F.SilkS") (tstamp 0cc5b966-7c50-44fe-a98e-792ff8563fa4)
