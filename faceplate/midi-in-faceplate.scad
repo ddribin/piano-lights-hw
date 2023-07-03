@@ -7,11 +7,17 @@ module midi_in_faceplate()
   midi_coupler_x = 27.5;
   midi_in_x = 48.2;
 
-  // JST XH connector has exact dimensions of 12.mm x 6.1mm (WxH)
+  // Dimenions from JST XH S4B-XH-A datasheet
   jst_w = 12.4;
   jst_h = 6.1;
-  jst_x = 66.6;
-  
+
+  // The PCB X,Y is to center of Pin 1
+  // The edge is 2.45mm to the left of Pin 1
+  jst_x_pcb = 69.05;
+  jst_x_pcb_offset = -2.45;
+  jst_x = jst_x_pcb + jst_x_pcb_offset;
+  echo(str("jst_x: ", jst_x));
+
   difference()
   {
     faceplate();
