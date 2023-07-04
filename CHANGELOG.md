@@ -1,12 +1,12 @@
 # Changelog
 
-## [Unreleased]
+## 3.0.0 - [Unreleased]
 
 ### Changed
 
 - Expand board out 1.8mm on the top and bottom so ports are closer to the edge of the enclosure.
 - Switch LEDs from wire mount to a JST XH connector [Issue [#8]].
-- Separate USB-C shield to Earth and connected to Ground by a 4n7F capacitor.
+- Separate USB-C shield to Earth and connected to Ground by a 4n7F capacitor [Issue [#12]].
 - Switch to SMD 0603 package for the LED [Issue [#7]].
 - Switch to SMD packge for the H11L1 optocoupler [Issue [#2]].
 - Switch to SOD-123 package for the diode [Issue [#6]].
@@ -22,6 +22,7 @@
 [#7]: https://github.com/ddribin/piano-lights-hw/issues/7
 [#8]: https://github.com/ddribin/piano-lights-hw/issues/8
 [#10]: https://github.com/ddribin/piano-lights-hw/issues/10
+[#12]: https://github.com/ddribin/piano-lights-hw/issues/12
 
 ## [2.0.0] - 2023-02-22
 
