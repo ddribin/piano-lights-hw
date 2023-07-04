@@ -6,8 +6,8 @@
 
   (title_block
     (title "Piano Lights")
-    (date "2023-02-22")
-    (rev "2.0.0")
+    (date "2023-07-04")
+    (rev "3.0.0")
     (company "Dave Dribin")
   )
 
@@ -3920,7 +3920,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 34.29 52.07 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 70b68304-66d9-46f5-9956-34d10a2dd786)
     (property "Reference" "C10" (at 34.29 55.88 90)
       (effects (font (size 1.27 1.27)))
