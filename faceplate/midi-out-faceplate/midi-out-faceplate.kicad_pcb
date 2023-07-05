@@ -7,7 +7,7 @@
   (paper "USLetter")
   (title_block
     (title "MIDI OUT Faceplate")
-    (date "2023-07-04")
+    (date "2023-07-05")
     (rev "3.0.0")
     (company "Dave Dribin")
   )

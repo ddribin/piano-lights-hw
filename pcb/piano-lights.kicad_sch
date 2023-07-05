@@ -6,7 +6,7 @@
 
   (title_block
     (title "Piano Lights")
-    (date "2023-07-04")
+    (date "2023-07-05")
     (rev "3.0.0")
     (company "Dave Dribin")
   )
@@ -3328,7 +3328,7 @@
     (property "Reference" "U1" (at 127 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "ATmega328" (at 123.19 110.49 0)
+    (property "Value" "ATmega328(P)" (at 123.19 110.49 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_QFP:TQFP-32_7x7mm_P0.8mm" (at 96.52 68.58 0)

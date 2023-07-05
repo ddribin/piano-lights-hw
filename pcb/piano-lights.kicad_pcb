@@ -7,7 +7,7 @@
   (paper "USLetter")
   (title_block
     (title "Piano Lights")
-    (date "2023-07-04")
+    (date "2023-07-05")
     (rev "3.0.0")
     (company "Dave Dribin")
   )
@@ -5781,7 +5781,7 @@
       )
     )
   )
-  (gr_text "Piano Lights\nv3.0.0\nDave Dribin" (at 93.275846 115.2) (layer "F.SilkS") (tstamp 844bb364-871b-457e-9d06-abcc961f8b2c)
+  (gr_text "Piano Lights\nv${REVISION}\nDave Dribin" (at 93.275846 115.2) (layer "F.SilkS") (tstamp 844bb364-871b-457e-9d06-abcc961f8b2c)
     (effects (font (face "Arial") (size 1.5 1.5) (thickness 0.25) bold))
     (render_cache "Piano Lights\nv3.0.0\nDave Dribin" 0
       (polygon
