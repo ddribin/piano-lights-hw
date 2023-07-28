@@ -2650,6 +2650,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3958ae5e-1296-4a3f-83e9-02a0383501f2)
   )
+  (text "JST XH Connector" (at 228.6 51.435 0)
+    (effects (font (face "Menlo") (size 1.27 1.27)) (justify left bottom))
+    (uuid 50e10d42-e88d-49da-81b1-3a17d4788a11)
+  )
   (text "I_{LED} = 2.3mA" (at 138.43 100.33 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 79f49edf-d6bd-4bdc-9efd-0c764c1ea22e)
@@ -3195,10 +3199,10 @@
     (property "Mfr" "~" (at 205.74 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f0728724-d342-4633-865e-7f19ffe173af))
-    (pin "2" (uuid f35a3099-775d-494b-83a6-ce4f8d346eb9))
-    (pin "3" (uuid 0cf220d5-20ea-4e0f-bfff-f8e38bdd4c67))
-    (pin "4" (uuid ca61af6d-bae0-4c81-9ba1-f94368089621))
+    (pin "1" (uuid 3105ef18-986b-4e46-8224-bfdb63dd9d68))
+    (pin "2" (uuid c7e8b8ee-5b51-4386-9a2e-486de7b8dee0))
+    (pin "3" (uuid 483baca2-e66c-49b9-b91f-25063fde7aed))
+    (pin "4" (uuid 71123b1a-650a-4495-b87a-e223dc045106))
     (instances
       (project "piano-lights"
         (path "/b6aa007d-aa4c-4e78-ae8f-c5ed1bbb4e88"
