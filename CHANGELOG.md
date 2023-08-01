@@ -1,5 +1,19 @@
 # Changelog
 
+## [Unreleased]
+
+### Changed
+
+- Add text about JST XH connector on schematic.
+
+### Fixed
+
+- Fix reversed silkscreen on LED D1 [Issue [#13]].
+
+[!13]: https://github.com/ddribin/piano-lights-hw/issues/13
+
+- Fix reverse
+
 ## [3.0.0] - 2023-07-05
 
 ### Changed
