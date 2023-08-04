@@ -12,9 +12,7 @@ _Faceplates have not been updated from version [3.0.0]_
 
 - Fix reversed silkscreen on LED D1 [Issue [#13]].
 
-[!13]: https://github.com/ddribin/piano-lights-hw/issues/13
-
-- Fix reverse
+[#13]: https://github.com/ddribin/piano-lights-hw/issues/13
 
 ## [3.0.0] - 2023-07-05
 
