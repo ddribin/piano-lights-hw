@@ -1380,7 +1380,7 @@
     (tstamp 5568cb9a-4775-444d-89ed-b24b609e8379)
     (at 93.275 92.725)
     (attr board_only exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
+    (fp_text reference "G1" (at 0 0) (layer "F.SilkS") hide
         (effects (font (size 1.524 1.524) (thickness 0.3)))
       (tstamp 5ee596ec-0976-4abd-9939-d132ccaf7643)
     )
