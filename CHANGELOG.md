@@ -1,6 +1,8 @@
 # Changelog
 
-## [Unreleased]
+## [3.0.1] - 2023-08-03
+
+_Faceplates have not been updated from version [3.0.0]_
 
 ### Changed
 
@@ -81,7 +83,8 @@
 _Initial Release._
 
 
-[unreleased]: https://github.com/ddribin/piano-lights-hw/compare/v3.0.0...HEAD
+[unreleased]: https://github.com/ddribin/piano-lights-hw/compare/v3.0.1...HEAD
+[3.0.1]: https://github.com/ddribin/piano-lights-hw/releases/tag/v3.0.1
 [3.0.0]: https://github.com/ddribin/piano-lights-hw/releases/tag/v3.0.0
 [2.0.0]: https://github.com/ddribin/piano-lights-hw/releases/tag/v2.0.0
 [1.0.1]: https://github.com/ddribin/piano-lights-hw/releases/tag/v1.0.1
