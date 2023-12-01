@@ -6,6 +6,10 @@ gerbers/
 # Interactive BOM
 bom/
 
+# Lock files
+~*.kicad_pcb.lck
+~*.kicad_sch.lck
+
 # The rest of this is from:
 # https://github.com/github/gitignore/blob/master/KiCad.gitignore
 
