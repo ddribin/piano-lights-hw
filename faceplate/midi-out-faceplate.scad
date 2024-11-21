@@ -28,6 +28,7 @@ module midi_out_faceplate()
     translate([midi_out_x, midi_y, 0])
       circle(d = midi_diameter);
 
+    // Add 0.2mm offset around the USB port
     translate([usb_x, pcb_top, 0])
       offset(delta = 0.2)
       square([usb_w, usb_h]);
